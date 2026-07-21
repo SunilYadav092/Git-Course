@@ -1,3 +1,7 @@
 Hello Everyone!
+
 Good Evening!
+
 Welcome to Git Course!!!!!!!
+
+Hope you have understand the git commands!
